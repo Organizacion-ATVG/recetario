@@ -20,3 +20,5 @@ def receta_pasta():
     print("1. Hervir la pasta.")
     print("2. Freír el ajo y tomate en aceite.")
     print("3. Mezclar todo y servir caliente.")
+
+Colaborador: tamaravrgs
